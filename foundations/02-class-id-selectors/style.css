@@ -1,0 +1,22 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.redbg {
+    background-color: rgb(255, 167, 167);
+}
+
+.big {
+    font-size: large;
+}
+
+#blu {
+    font-size: x-large;
+    color: blue;
+}
+
+#gre {
+    font-weight: bold;
+    font-size: larger;
+    background-color: chartreuse;
+}
